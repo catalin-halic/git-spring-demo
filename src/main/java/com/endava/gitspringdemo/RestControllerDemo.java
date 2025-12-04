@@ -23,4 +23,8 @@ public class RestControllerDemo {
         return "Message 4";
     }
 
+    public String getMessage5() {
+        return "Message 5";
+    }
+
 }
