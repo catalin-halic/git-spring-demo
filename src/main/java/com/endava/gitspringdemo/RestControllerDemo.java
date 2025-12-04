@@ -30,4 +30,8 @@ public class RestControllerDemo {
     public String getMessage5() {
         return "Message 5 - mine is better";
     }
+
+    public String getMessage5() {
+        return "Message 5 - mine is better";
+    }
 }
