@@ -8,6 +8,8 @@ public class GitSpringDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitSpringDemoApplication.class, args);
+
+        System.out.println("first line");
     }
 
 }
