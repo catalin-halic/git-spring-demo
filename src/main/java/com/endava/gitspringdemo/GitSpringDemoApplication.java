@@ -10,6 +10,11 @@ public class GitSpringDemoApplication {
         SpringApplication.run(GitSpringDemoApplication.class, args);
 
         System.out.println("first line");
+
+        System.out.println("first line 5");
+
+
+        System.out.println("first line 6");
     }
 
 }
