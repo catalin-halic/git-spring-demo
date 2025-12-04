@@ -19,11 +19,7 @@ public class RestControllerDemo {
         return "Message 3";
     }
 
-    public String getMessage4() {
-        return "Message 4";
-    }
+    public String getMessage4() { return "Message 4"; }
 
-    public String getMessage5() {
-        return "Message 5";
-    }
+    public String getMessage5() { return "Message 5"; }
 }
