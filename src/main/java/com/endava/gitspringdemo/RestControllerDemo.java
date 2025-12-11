@@ -26,4 +26,5 @@ public class RestControllerDemo {
     public String getMessage5() {
         return "Message 5";
     }
+
 }
