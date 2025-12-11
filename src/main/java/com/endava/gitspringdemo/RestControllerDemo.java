@@ -22,7 +22,9 @@ public class RestControllerDemo {
     public String getMessage4(){
         return "Message 4";
     }
+
     public String getMessage5(){
         return "Message 5";
     }
+
 }

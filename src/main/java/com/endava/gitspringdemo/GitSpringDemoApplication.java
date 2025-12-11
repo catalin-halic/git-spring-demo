@@ -10,6 +10,4 @@ public class GitSpringDemoApplication {
         SpringApplication.run(GitSpringDemoApplication.class, args);
     }
 
-
-
 }
